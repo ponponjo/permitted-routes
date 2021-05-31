@@ -3,3 +3,4 @@
 .download
 .download.zip
 .output
+*__pycache__
