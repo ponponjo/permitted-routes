@@ -1,0 +1,4 @@
+virtualenv
+requests
+zipfile36
+pylint
